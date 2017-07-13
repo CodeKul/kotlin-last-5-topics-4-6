@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codekul.kotlinfourtosix.MainActivity"
+    android:orientation="vertical">
+
+   <Button
+       android:id="@+id/btnEnable"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/btnEnable"/>
+
+   <Button
+       android:id="@+id/btnDiscoverable"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/btnDiscoverable"/>
+
+   <Button
+       android:id="@+id/btnPaired"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/btnPaired"/>
+
+   <Button
+       android:id="@+id/btnServer"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/btnServer"/>
+
+   <Button
+       android:id="@+id/btnClient"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/btnClient"/>
+
+</LinearLayout>

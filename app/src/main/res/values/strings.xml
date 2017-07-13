@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinFourtoSix</string>
+    <string name="btnEnable">Enable</string>
+    <string name="btnDiscoverable">Discoverable</string>
+    <string name="btnPaired">Paired</string>
+    <string name="btnServer">Server</string>
+    <string name="btnClient">Client</string>
+</resources>
